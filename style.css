@@ -1,0 +1,23 @@
+
+body{
+    background-color: bisque;
+}
+.btn{
+    width:90px;
+    height:90px;
+  padding-top: 20px;
+  border-radius: 50% !important;
+}
+.contains{
+   background-color: darkcyan;
+   margin: auto;
+   
+}
+#result{
+background-color: white;
+    color:black;
+    height: 200px;
+    margin-bottom: 40px;
+   
+    
+ }
